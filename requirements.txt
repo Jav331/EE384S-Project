@@ -1,0 +1,12 @@
+numpy
+scipy
+pandas
+matplotlib
+simpy
+tqdm
+transformers
+datasets
+sentencepiece
+huggingface_hub
+modal
+openai
