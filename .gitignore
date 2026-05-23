@@ -1,0 +1,25 @@
+# Python
+__pycache__/
+*.pyc
+.venv/
+venv/
+
+# Data/results
+*.csv
+*.jsonl
+*.log
+
+# Large model/data files
+models/
+.cache/
+huggingface/
+
+# OS
+.DS_Store
+
+# LaTeX
+*.aux
+*.log
+*.out
+*.toc
+*.synctex.gz
